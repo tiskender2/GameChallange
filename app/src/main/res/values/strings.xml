@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Gamer Bilgi Yarışması</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_rateus">Bizi Oyla</string>
+    <string name="action_rank">Sıralama</string>
+    <string name="action_share">Paylaş</string>
+    <string name="action_exit">Çıkış</string>
+    <string name="admob">ca-app-pub-4634667815519230/2324092467</string>
+    <string name="my_text"><u>Kurallar</u>.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
